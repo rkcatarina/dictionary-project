@@ -10,7 +10,7 @@ function App() {
           <strong>Dictionary</strong>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultWord={"wine"}/>
         </main>
         <footer className="App-footer">
           Coded by Catarina Redshaw Kranich
