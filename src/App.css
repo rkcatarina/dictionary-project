@@ -1,9 +1,13 @@
 .App-header {
   font-size: 40px;
-  color: rgb(51, 196, 233)
+  color: rgb(13, 110, 53)
 }
 
 .App-footer {
   margin-top: 30px;
   color:rgb(138, 46, 212)
+}
+
+.App {
+  background:rgb(195, 236, 213);
 }
